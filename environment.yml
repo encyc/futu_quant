@@ -1,4 +1,4 @@
-name: futu_trade
+name: futu_algo
 channels:
   - defaults
 dependencies:
